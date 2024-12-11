@@ -1,0 +1,67 @@
+body{
+    background-image: url(/images/backtre.jpg);
+}
+
+.login-principal{
+    background-image: linear-gradient(to left, #000000,#5E6E5E, #2F432F);
+    width: 25rem;
+
+}
+
+.logo{
+    height: 9rem;
+    border-radius: 10px;
+}
+.container-us{
+    background-image: linear-gradient(to left, #000000,#5E6E5E, #2F432F);
+}
+
+.icone-usuario{
+    height: 1rem;
+}
+.icone-senha{
+    height: 1rem
+}
+
+.lembrar{
+    font-size: 0.9rem;
+}
+
+.link-senha{
+    font-size: 0.9rem;
+
+}
+
+.ou{
+    height: 0.9rem
+}
+.google-icon{
+    height: 1.6rem
+}
+
+.login{
+    background-image: linear-gradient(to left, #000000,#5E6E5E, #2F432F);
+    border-color: white;
+}
+.ou2{
+    background-image: linear-gradient(to left, #0000005e,#5e6e5e2f, #2f432f1f);
+    border-radius: 5px;
+    color: rgb(19, 17, 17);
+    padding: 5px;
+}
+
+.container-us2:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.login:hover{
+    border-color: #000000;
+}
+.container-us2:focus {
+    outline: 1px;
+    box-shadow: 1px white;
+}
+.google-entra{
+    background-color: white;
+}
